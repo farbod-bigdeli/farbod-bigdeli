@@ -46,7 +46,7 @@ I'm open to backend, platform and AI engineering internships.
 
 ### Software Architecture and Engineering
 
-- Distributed Systems: consensus (Raft) and distributed transactions (2PC)
+- Distributed Systems: consensus and distributed transactions
 - Microservices Architecture and API Gateways
 - Event-Driven Architecture: Pub/Sub and message queues
 - RESTful APIs and Asynchronous Messaging
